@@ -1,4 +1,5 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+﻿Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is a change.
 This is a new change - newer one.
 New friend arrived: Patrick!
+Testando colaboração remota, com muuuuitos usuários
